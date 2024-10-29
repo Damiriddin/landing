@@ -1,0 +1,19 @@
+.footer-container
+{
+    padding-left: 165px;
+    padding-right: 165px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background-color: #0B0D17;
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 197px;
+}
+.sets-logo ul
+{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
